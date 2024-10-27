@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:untitled3/Crazy.dart';
+import 'package:untitled3/pages/Crazy.dart';
 import 'package:get/get.dart';
-import 'package:untitled3/Test.dart';
+import 'package:untitled3/pages/Test.dart';
 void main()
 {
   runApp(const MyApp());
